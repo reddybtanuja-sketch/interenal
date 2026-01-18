@@ -1,0 +1,73 @@
+"In a closed container, when does a liquid-vapor system reach a state of dynamic equilibrium?",Equilibrium is reached when the rate of evaporation becomes equal to the rate of condensation.
+What do the double half arrows (⇌) indicate in a chemical equation like $H_2O(l) \rightleftharpoons H_2O(vap)$?,They indicate that the processes in both the forward and reverse directions are occurring simultaneously.
+"A system is in _____ when the rates of the forward and reverse reactions become equal, resulting in no net change in the concentrations of reactants and products.",dynamic equilibrium
+What is the term for the temperature at which the solid and liquid phases of a pure substance are in equilibrium at atmospheric pressure?,Normal melting point or normal freezing point.
+The constant pressure exerted by the vapor in equilibrium with its liquid at a given temperature is called the _____.,equilibrium vapor pressure
+What is the normal boiling point of a liquid?,The temperature at which the liquid and its vapor are at equilibrium at one atmospheric pressure (1.013 bar).
+"In a saturated solution, a dynamic equilibrium exists between the solute molecules in the solid state and in the solution, where the rate of dissolution equals the rate of _____.",crystallisation
+What law states that the mass of a gas dissolved in a given mass of a solvent at any temperature is proportional to the pressure of the gas above the solvent?,Henry’s law.
+Equilibrium is only possible in a _____ system at a given temperature.,closed
+"What is the state of a chemical reaction where the rates of the forward and reverse reactions are equal, and the concentrations of reactants and products remain constant?",Chemical equilibrium.
+"The Norwegian chemists Cato Maximillian Guldberg and Peter Waage proposed the law of _____ in 1864, which relates the concentrations in an equilibrium mixture.",mass action
+"For the general reaction $aA + bB \rightleftharpoons cC + dD$, what is the expression for the equilibrium constant, $K_c$?",$K_c = \frac{[C]^c[D]^d}{[A]^a[B]^b}$
+"If the equilibrium constant for a forward reaction is $K_c$, what is the equilibrium constant ($K'_c$) for the reverse reaction?",$K'_c = \frac{1}{K_c}$
+"If a chemical equation is multiplied by a factor 'n', how does the new equilibrium constant ($K''_{c}$) relate to the original equilibrium constant ($K_c$)?",The new equilibrium constant is equal to the original constant raised to the power of 'n' ($K''_{c} = (K_c)^n$).
+What is a homogeneous equilibrium?,An equilibrium in which all the reactants and products are in the same phase.
+"For reactions involving gases, the equilibrium constant can be expressed in terms of partial pressures, symbolized as _____.",$K_p$
+What is the relationship between $K_p$ and $K_c$ for a gaseous reaction?,$K_p = K_c(RT)^{\Delta n}$
+"In the equation $K_p = K_c(RT)^{\Delta n}$, what does $\Delta n$ represent?",The difference between the number of moles of gaseous products and the number of moles of gaseous reactants in the balanced chemical equation.
+What is a heterogeneous equilibrium?,An equilibrium in a system that has more than one phase.
+Why are the concentrations of pure solids and pure liquids omitted from the equilibrium constant expression?,"Their molar concentrations are constant and do not change, regardless of the amount present."
+"For the decomposition of calcium carbonate, $CaCO_3(s) \rightleftharpoons CaO(s) + CO_2(g)$, the equilibrium constant $K_p$ is equal to what?",$K_p = p_{CO_2}$
+"If the value of the equilibrium constant $K_c$ is greater than $10^3$, what does this imply about the composition of the equilibrium mixture?","Products predominate over reactants, and the reaction proceeds nearly to completion."
+"If the value of the equilibrium constant $K_c$ is less than $10^{-3}$, what does this suggest about the reaction?","Reactants predominate over products, and the reaction rarely proceeds to a significant extent."
+"What is the reaction quotient, $Q_c$?","A value defined in the same way as the equilibrium constant, $K_c$, but using concentrations that are not necessarily at equilibrium."
+"If the reaction quotient $Q_c$ is less than the equilibrium constant $K_c$, in which direction will the reaction proceed?",The reaction will proceed in the forward direction (towards the products).
+"If the reaction quotient $Q_c$ is greater than the equilibrium constant $K_c$, in which direction will the reaction proceed?",The reaction will proceed in the reverse direction (towards the reactants).
+"What is the relationship between the standard Gibbs free energy change, $\Delta G^\circ$, and the equilibrium constant, K?",$\Delta G^\circ = -RT \ln K$
+"If $\Delta G^\circ$ is negative for a reaction, what can be inferred about the value of the equilibrium constant K?","$K$ will be greater than 1, implying the reaction is spontaneous and favors the products."
+"If $\Delta G^\circ$ is positive for a reaction, what does this imply about the value of the equilibrium constant K?","$K$ will be less than 1, implying the reaction is non-spontaneous and favors the reactants."
+What does Le Chatelier's principle state?,A change in any factor that determines the equilibrium conditions of a system will cause the system to change in a manner that reduces or counteracts the effect of the change.
+"According to Le Chatelier's principle, if a reactant is added to a system at equilibrium, the equilibrium will shift in the direction that _____ the added substance.",consumes
+"For the gaseous reaction $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$, how will increasing the pressure affect the equilibrium?","The equilibrium will shift to the right (forward direction), favoring the formation of ammonia, which has fewer moles of gas."
+How does the addition of an inert gas at constant volume affect an equilibrium mixture?,It has no effect on the equilibrium as it does not change the partial pressures or molar concentrations of the reacting substances.
+"For an exothermic reaction (negative $\Delta H$), how does increasing the temperature affect the equilibrium constant, $K$?",The equilibrium constant decreases as the temperature increases.
+"For an endothermic reaction (positive $\Delta H$), how does increasing the temperature affect the equilibrium constant, $K$?",The equilibrium constant increases as the temperature increases.
+What is the effect of a catalyst on a system at equilibrium?,A catalyst increases the rate of both forward and reverse reactions equally but does not affect the equilibrium composition or the value of the equilibrium constant.
+Substances that conduct electricity in their aqueous solutions are called _____.,electrolytes
+What is the main difference between strong and weak electrolytes?,"Strong electrolytes are almost completely ionized in water, while weak electrolytes are only partially dissociated."
+"According to the Arrhenius theory, what is an acid?","A substance that dissociates in water to produce hydrogen ions, $H^+(aq)$."
+"According to the Arrhenius theory, what is a base?","A substance that produces hydroxyl ions, $OH^-(aq)$, in water."
+"According to the Brønsted-Lowry theory, an acid is a proton _____, and a base is a proton _____.",donor; acceptor
+What is a conjugate acid-base pair?,An acid-base pair that differs by only one proton.
+"If a Brønsted-Lowry acid is strong, its conjugate base is _____.",weak
+What is the conjugate base of the Brønsted acid $H_2SO_4$?,"The bisulfate ion, $HSO_4^-$."
+What is the conjugate acid of the Brønsted base $NH_3$?,"The ammonium ion, $NH_4^+$."
+"According to G.N. Lewis, an acid is a species that _____ an electron pair.",accepts
+"According to G.N. Lewis, a base is a species that _____ an electron pair.",donates
+Why is $BF_3$ classified as a Lewis acid?,It is an electron-deficient species that can accept a lone pair of electrons.
+"Term: Ionic product of water, $K_w$.","The equilibrium constant for the autoionization of water, defined as $K_w = [H^+][OH^-]$, which is $1.0 \times 10^{-14}$ at 298 K."
+How is the pH of a solution defined?,"As the negative logarithm to base 10 of the hydrogen ion concentration, $pH = -\log[H^+]$."
+"A solution with a pH less than 7 is _____, while a solution with a pH greater than 7 is _____.",acidic; basic
+"What is the relationship between pH, pOH, and $pK_w$ at a given temperature?",$pH + pOH = pK_w$
+"What is the ionization constant of a weak acid, $K_a$?","The equilibrium constant for the dissociation of a weak acid, represented as $K_a = \frac{[H^+][A^-]}{[HA]}$."
+A larger value of $K_a$ indicates a _____ acid.,stronger
+"The _____ is a measure of the strength of a weak base, represented by $K_b = \frac{[M^+][OH^-]}{[MOH]}$.",base ionization constant
+"For any conjugate acid-base pair, what is the relationship between their ionization constants, $K_a$ and $K_b$?",Their product is equal to the ionic product of water: $K_a \times K_b = K_w$.
+"Acids that have more than one ionizable proton per molecule, such as $H_2SO_4$, are known as _____ acids.",polyprotic (or polybasic)
+Why is the first ionization constant ($K_{a1}$) of a polyprotic acid larger than the second ($K_{a2}$)?,It is more difficult to remove a positively charged proton from a negative ion (like $HX^-$) than from a neutral molecule (like $H_2X$) due to electrostatic forces.
+"When comparing acid strength down a group in the periodic table (e.g., HF vs HCl), what is the more important factor: bond polarity or bond strength?","H-A bond strength is the more important factor; as the bond gets weaker, the acid gets stronger."
+"When comparing acid strength across a row in the periodic table (e.g., $CH_4$ vs $HF$), _____ becomes the deciding factor.",H-A bond polarity (electronegativity)
+What is the common ion effect?,A shift in an ionic equilibrium caused by the addition of a substance that provides an ion already present in the equilibrium.
+The interaction between water and the cations/anions of a salt is called _____.,hydrolysis
+"The aqueous solution of a salt formed from a strong acid and a strong base is _____, with a pH of 7.",neutral
+"The pH of an aqueous solution of a salt of a weak acid and a strong base (e.g., $CH_3COONa$) is _____.",greater than 7 (basic)
+"The pH of an aqueous solution of a salt of a strong acid and a weak base (e.g., $NH_4Cl$) is _____.",less than 7 (acidic)
+What is a buffer solution?,A solution that resists a change in pH upon dilution or with the addition of small amounts of acid or alkali.
+An acidic buffer solution typically consists of a mixture of a _____ and its salt formed with a _____.,weak acid; strong base
+What is the Henderson-Hasselbalch equation for an acidic buffer?,$pH = pK_a + \log \frac{[Salt]}{[Acid]}$ or $pH = pK_a + \log \frac{[A^-]}{[HA]}$
+"Salts with very low solubility, less than 0.01M, are classified as _____ soluble.",sparingly
+"What is the solubility product constant, $K_{sp}$?",The equilibrium constant for a solid ionic compound dissolving in a saturated aqueous solution.
+"For the sparingly soluble salt $BaSO_4$, what is the expression for its solubility product constant, $K_{sp}$?",$K_{sp} = [Ba^{2+}][SO_4^{2-}]$
+"For a general salt $M_xX_y$, how is its solubility product $K_{sp}$ related to its molar solubility, S?",$K_{sp} = (xS)^x(yS)^y = x^x y^y S^{(x+y)}$
+How does the common ion effect influence the solubility of a sparingly soluble salt?,The presence of a common ion decreases the solubility of the sparingly soluble salt.
